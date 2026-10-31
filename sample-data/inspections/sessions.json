@@ -1,0 +1,32 @@
+[
+  {
+    "code": "INS-2024-0007",
+    "boiler_code": "BLR-01",
+    "inspection_date": "2024-03-18",
+    "inspection_type": "annual",
+    "method": "Visual, ultrasonic (SIMULATED), photographic",
+    "status": "submitted",
+    "conditions": {"cooling_hours": "48", "ambient": "Sample", "note": "SIMULATED"},
+    "observations": "SIMULATED annual record. Light surface oxidation noted on economiser row 24."
+  },
+  {
+    "code": "INS-2025-0031",
+    "boiler_code": "BLR-01",
+    "inspection_date": "2025-03-24",
+    "inspection_type": "annual",
+    "method": "Visual, ultrasonic (SIMULATED), photographic",
+    "status": "submitted",
+    "conditions": {"cooling_hours": "42", "ambient": "Sample", "note": "SIMULATED"},
+    "observations": "SIMULATED annual record. Thickness trends recorded at fixed locations."
+  },
+  {
+    "code": "INS-2026-0044",
+    "boiler_code": "BLR-01",
+    "inspection_date": "2026-10-12",
+    "inspection_type": "annual",
+    "method": "Visual, ultrasonic (SIMULATED), photographic, AI demonstration analysis",
+    "status": "open",
+    "conditions": {"cooling_hours": "46", "ambient": "Sample", "note": "SIMULATED"},
+    "observations": "SIMULATED current cycle. Economiser and superheater readings require engineer verification."
+  }
+]

@@ -1,0 +1,30 @@
+session_code,component_code,parameter,value,unit,method,location_key,location_label,instrument,quality,recorded_at
+INS-2024-0007,ECO-TUBE-024,wall_thickness,5.8,mm,ultrasonic_thickness,ECO24-SEC-A-1.2M,Tube 24 section A at 1.2 m,SIMULATED UT gauge,good,2024-03-18T10:00:00
+INS-2024-0007,ECO-TUBE-024,wall_thickness,5.9,mm,ultrasonic_thickness,ECO24-SEC-B-0.6M,Tube 24 section B at 0.6 m,SIMULATED UT gauge,good,2024-03-18T10:20:00
+INS-2024-0007,ECO-TUBE-025,wall_thickness,5.9,mm,ultrasonic_thickness,ECO25-SEC-A-1.2M,Tube 25 section A at 1.2 m,SIMULATED UT gauge,good,2024-03-18T10:40:00
+INS-2024-0007,WW-PANEL-07,wall_thickness,6.2,mm,ultrasonic_thickness,WW07-HW-2.0M,Panel 07 at 2.0 m,SIMULATED UT gauge,good,2024-03-18T11:00:00
+INS-2024-0007,WW-PANEL-08,wall_thickness,6.3,mm,ultrasonic_thickness,WW08-HW-2.0M,Panel 08 at 2.0 m,SIMULATED UT gauge,good,2024-03-18T11:10:00
+INS-2024-0007,SH-PLATEN-03,wall_thickness,5.4,mm,ultrasonic_thickness,SH03-OUT-1.5M,Platen 03 outlet at 1.5 m,SIMULATED UT gauge,good,2024-03-18T11:30:00
+INS-2024-0007,RH-COIL-02,wall_thickness,4.2,mm,ultrasonic_thickness,RH02-IN-2.5M,Coil 02 inlet at 2.5 m,SIMULATED UT gauge,good,2024-03-18T11:45:00
+INS-2024-0007,DRUM-01,wall_thickness,88.1,mm,ultrasonic_thickness,DRUM01-SHELL-N,Drum shell north,SIMULATED UT gauge,good,2024-03-18T12:00:00
+INS-2025-0031,ECO-TUBE-024,wall_thickness,5.6,mm,ultrasonic_thickness,ECO24-SEC-A-1.2M,Tube 24 section A at 1.2 m,SIMULATED UT gauge,good,2025-03-24T09:40:00
+INS-2025-0031,ECO-TUBE-024,wall_thickness,5.9,mm,ultrasonic_thickness,ECO24-SEC-B-0.6M,Tube 24 section B at 0.6 m,SIMULATED UT gauge,good,2025-03-24T10:00:00
+INS-2025-0031,ECO-TUBE-025,wall_thickness,5.8,mm,ultrasonic_thickness,ECO25-SEC-A-1.2M,Tube 25 section A at 1.2 m,SIMULATED UT gauge,good,2025-03-24T10:20:00
+INS-2025-0031,WW-PANEL-07,wall_thickness,6.1,mm,ultrasonic_thickness,WW07-HW-2.0M,Panel 07 at 2.0 m,SIMULATED UT gauge,good,2025-03-24T10:40:00
+INS-2025-0031,WW-PANEL-08,wall_thickness,6.3,mm,ultrasonic_thickness,WW08-HW-2.0M,Panel 08 at 2.0 m,SIMULATED UT gauge,good,2025-03-24T10:50:00
+INS-2025-0031,SH-PLATEN-03,wall_thickness,5.2,mm,ultrasonic_thickness,SH03-OUT-1.5M,Platen 03 outlet at 1.5 m,SIMULATED UT gauge,good,2025-03-24T11:10:00
+INS-2025-0031,RH-COIL-02,wall_thickness,4.1,mm,ultrasonic_thickness,RH02-IN-2.5M,Coil 02 inlet at 2.5 m,SIMULATED UT gauge,good,2025-03-24T11:25:00
+INS-2025-0031,DRUM-01,wall_thickness,88.0,mm,ultrasonic_thickness,DRUM01-SHELL-N,Drum shell north,SIMULATED UT gauge,good,2025-03-24T11:40:00
+INS-2025-0031,FURN-ROOF-01,wall_thickness,6.0,mm,ultrasonic_thickness,FURN01-ROOF-A,Roof tube panel 01 section A,SIMULATED UT gauge,good,2025-03-24T11:55:00
+INS-2025-0031,HDR-FW-01,wall_thickness,15.2,mm,ultrasonic_thickness,HDRFW01-E,Feedwater header east end,SIMULATED UT gauge,good,2025-03-24T12:10:00
+INS-2026-0044,ECO-TUBE-024,wall_thickness,5.3,mm,ultrasonic_thickness,ECO24-SEC-A-1.2M,Tube 24 section A at 1.2 m,SIMULATED UT gauge,good,2026-10-12T09:30:00
+INS-2026-0044,ECO-TUBE-024,wall_thickness,5.8,mm,ultrasonic_thickness,ECO24-SEC-B-0.6M,Tube 24 section B at 0.6 m,SIMULATED UT gauge,good,2026-10-12T09:50:00
+INS-2026-0044,ECO-TUBE-025,wall_thickness,5.8,mm,ultrasonic_thickness,ECO25-SEC-A-1.2M,Tube 25 section A at 1.2 m,SIMULATED UT gauge,good,2026-10-12T10:10:00
+INS-2026-0044,WW-PANEL-07,wall_thickness,6.0,mm,ultrasonic_thickness,WW07-HW-2.0M,Panel 07 at 2.0 m,SIMULATED UT gauge,good,2026-10-12T10:30:00
+INS-2026-0044,WW-PANEL-07,wall_thickness,5.1,mm,ultrasonic_thickness,WW07-HW-3.5M,Panel 07 at 3.5 m (coupling poor),SIMULATED UT gauge,poor,2026-10-12T10:45:00
+INS-2026-0044,WW-PANEL-08,wall_thickness,6.3,mm,ultrasonic_thickness,WW08-HW-2.0M,Panel 08 at 2.0 m,SIMULATED UT gauge,good,2026-10-12T11:00:00
+INS-2026-0044,SH-PLATEN-03,wall_thickness,4.45,mm,ultrasonic_thickness,SH03-OUT-1.5M,Platen 03 outlet at 1.5 m,SIMULATED UT gauge,good,2026-10-12T11:20:00
+INS-2026-0044,RH-COIL-02,wall_thickness,4.1,mm,ultrasonic_thickness,RH02-IN-2.5M,Coil 02 inlet at 2.5 m,SIMULATED UT gauge,good,2026-10-12T11:35:00
+INS-2026-0044,DRUM-01,wall_thickness,87.8,mm,ultrasonic_thickness,DRUM01-SHELL-N,Drum shell north,SIMULATED UT gauge,good,2026-10-12T11:50:00
+INS-2026-0044,HDR-FW-01,wall_thickness,15.1,mm,ultrasonic_thickness,HDRFW01-E,Feedwater header east end,SIMULATED UT gauge,good,2026-10-12T12:05:00
+INS-2026-0044,HDR-MS-01,wall_thickness,21.4,mm,ultrasonic_thickness,HDRMS01-W,Main steam header west end,SIMULATED UT gauge,fair,2026-10-12T12:20:00

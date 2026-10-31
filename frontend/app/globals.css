@@ -1,0 +1,46 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  color-scheme: dark;
+}
+
+html,
+body {
+  background: #0a0c0f;
+  color: #c9d1d9;
+  font-family: ui-sans-serif, system-ui, "Segoe UI", Helvetica, Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+}
+
+/* Fine engineering grid for the workspace background. */
+.grid-bg {
+  background-image:
+    linear-gradient(rgba(138, 150, 165, 0.05) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(138, 150, 165, 0.05) 1px, transparent 1px);
+  background-size: 32px 32px;
+}
+
+.label-caps {
+  font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+  font-size: 10.5px;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: #6b7584;
+}
+
+.scroll-thin::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+.scroll-thin::-webkit-scrollbar-thumb {
+  background: #2a313c;
+  border-radius: 3px;
+}
+
+input,
+select,
+textarea {
+  color-scheme: dark;
+}

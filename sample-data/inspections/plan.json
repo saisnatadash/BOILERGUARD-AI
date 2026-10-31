@@ -1,0 +1,48 @@
+{
+  "name": "Next annual cycle: planning draft (SIMULATED)",
+  "boiler_code": "BLR-01",
+  "planned_start": "2027-03-01",
+  "items": [
+    {
+      "component_code": "SH-PLATEN-03",
+      "priority": "critical",
+      "method_class": "shutdown_required",
+      "required_method": "Independent UT thickness survey at flagged locations",
+      "access_constraints": "Requires shutdown and scaffold access. Lead time to be confirmed with the plant.",
+      "responsible_person": "Inspection Engineer"
+    },
+    {
+      "component_code": "ECO-TUBE-024",
+      "priority": "high",
+      "method_class": "remote_robotic_candidate",
+      "required_method": "Robotic UT grid survey (simulated method)",
+      "access_constraints": "Candidate for a remote method. Engineering validation required.",
+      "responsible_person": "Inspection Engineer"
+    },
+    {
+      "component_code": "DRUM-01",
+      "priority": "moderate",
+      "method_class": "specialist_required",
+      "required_method": "Internal visual and NDT by a qualified specialist",
+      "statutory": true,
+      "statutory_reference": "Boilers Act, 1923 and Indian Boiler Regulations, 1950 (applicable clause to be confirmed with the Inspector)",
+      "access_constraints": "Internal inspection requires shutdown.",
+      "responsible_person": "Qualified inspector"
+    },
+    {
+      "component_code": "WW-PANEL-07",
+      "priority": "high",
+      "method_class": "remote_robotic_candidate",
+      "required_method": "Thermal survey plus UT spot checks (simulated)",
+      "access_constraints": "Coupling quality at 3.5 m location must be improved before reading.",
+      "responsible_person": "Inspection Engineer"
+    },
+    {
+      "component_code": "HDR-MS-01",
+      "priority": "routine",
+      "method_class": "shutdown_required",
+      "required_method": "Visual and dimensional check",
+      "responsible_person": "Maintenance Manager"
+    }
+  ]
+}

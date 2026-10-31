@@ -1,0 +1,11 @@
+boiler_code,code,name,category,diagram_key,nominal_thickness_mm,min_required_thickness_mm,material,description
+BLR-01,FURN-ROOF-01,Furnace roof tube panel 01,Furnace,furnace,6.0,4.9,Carbon steel (demo),Demonstration thresholds only
+BLR-01,WW-PANEL-07,Water wall panel 07,Water walls,ww-left,6.3,5.0,Carbon steel (demo),Demonstration thresholds only
+BLR-01,WW-PANEL-08,Water wall panel 08,Water walls,ww-right,6.3,5.0,Carbon steel (demo),Demonstration thresholds only
+BLR-01,SH-PLATEN-03,Superheater platen 03,Superheater,sh,5.5,4.5,Alloy steel (demo),Demonstration thresholds only
+BLR-01,RH-COIL-02,Reheater coil 02,Reheater,rh,4.5,3.8,Alloy steel (demo),Demonstration thresholds only
+BLR-01,ECO-TUBE-024,Economiser tube row 24,Economiser,eco-1,6.0,4.8,Carbon steel (demo),Demonstration thresholds only
+BLR-01,ECO-TUBE-025,Economiser tube row 25,Economiser,eco-2,6.0,4.8,Carbon steel (demo),Demonstration thresholds only
+BLR-01,DRUM-01,Steam drum shell course 02,Steam drum,drum,90.0,82.0,Carbon steel (demo),Demonstration thresholds only
+BLR-01,HDR-FW-01,Feedwater inlet header,Headers,hdr-fw,16.0,13.5,Carbon steel (demo),Demonstration thresholds only
+BLR-01,HDR-MS-01,Main steam outlet header,Headers,hdr-ms,22.0,18.5,Alloy steel (demo),Demonstration thresholds only

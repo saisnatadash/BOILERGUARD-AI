@@ -1,0 +1,23 @@
+[
+  {
+    "code": "SIM-UT-01",
+    "name": "Simulated ultrasonic thickness gauge (DEMO)",
+    "device_type": "ultrasonic_gauge",
+    "status": "simulated_online",
+    "description": "Simulated device for the prototype. Readings are synthetic and labelled SIMULATED."
+  },
+  {
+    "code": "SIM-CRAWL-01",
+    "name": "Simulated robotic crawler (DEMO)",
+    "device_type": "robotic_crawler",
+    "status": "simulated_standby",
+    "description": "Registry entry only. No robot is connected and no crawler data are produced."
+  },
+  {
+    "code": "SIM-THERM-01",
+    "name": "Thermal camera adapter placeholder (DEMO)",
+    "device_type": "thermal_camera",
+    "status": "not_connected",
+    "description": "Architecture placeholder for a future thermal integration. No thermal data are produced."
+  }
+]

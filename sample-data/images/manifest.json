@@ -1,0 +1,47 @@
+[
+  {
+    "filename": "SIM-ECO-TUBE-024_INS-2024-0007.png",
+    "component_code": "ECO-TUBE-024",
+    "session_code": "INS-2024-0007",
+    "seed": 11,
+    "rust_patches": 2,
+    "cracks": 0,
+    "caption": "Economiser row 24, section A (SIMULATED image)"
+  },
+  {
+    "filename": "SIM-ECO-TUBE-024_INS-2026-0044.png",
+    "component_code": "ECO-TUBE-024",
+    "session_code": "INS-2026-0044",
+    "seed": 12,
+    "rust_patches": 4,
+    "cracks": 1,
+    "caption": "Economiser row 24, section A (SIMULATED image)"
+  },
+  {
+    "filename": "SIM-SH-PLATEN-03_INS-2026-0044.png",
+    "component_code": "SH-PLATEN-03",
+    "session_code": "INS-2026-0044",
+    "seed": 13,
+    "rust_patches": 3,
+    "cracks": 2,
+    "caption": "Superheater platen 03 (SIMULATED image)"
+  },
+  {
+    "filename": "SIM-WW-PANEL-07_INS-2026-0044.png",
+    "component_code": "WW-PANEL-07",
+    "session_code": "INS-2026-0044",
+    "seed": 14,
+    "rust_patches": 1,
+    "cracks": 0,
+    "caption": "Water wall panel 07 (SIMULATED image)"
+  },
+  {
+    "filename": "SIM-DRUM-01_INS-2026-0044.png",
+    "component_code": "DRUM-01",
+    "session_code": "INS-2026-0044",
+    "seed": 15,
+    "rust_patches": 0,
+    "cracks": 0,
+    "caption": "Steam drum shell, clean reference (SIMULATED image)"
+  }
+]

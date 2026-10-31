@@ -1,0 +1,23 @@
+{
+  "_label": "SIMULATED demonstration dataset. Plant and boiler are conceptual. They do not describe any real facility.",
+  "plants": [
+    {
+      "code": "DEMO-TPP-01",
+      "name": "Demonstration Thermal Power Station",
+      "location": "Sample site (conceptual)",
+      "description": "SIMULATED plant record for demonstration only."
+    }
+  ],
+  "boilers": [
+    {
+      "plant_code": "DEMO-TPP-01",
+      "code": "BLR-01",
+      "name": "Demonstration Boiler 01 (conceptual model)",
+      "boiler_type": "Natural circulation, single drum (conceptual)",
+      "rated_capacity_tph": 300,
+      "design_pressure_bar": 145,
+      "commissioned_year": 2009,
+      "description": "Conceptual sample boiler model. It is not an engineering drawing of any plant."
+    }
+  ]
+}
